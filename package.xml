@@ -2,9 +2,9 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>DataTableConfig__c</members>
-        <members>DataTableAction__c</members>
+        <members>DataTableDetail__c</members>
         <members>PageLayoutConfig__c</members>
-        <members>TabConfig__c</members>
+        <members>TabLayoutConfig__c</members>
         <members>PageBlockConfig__c</members>
         <name>CustomObject</name>
     </types>
